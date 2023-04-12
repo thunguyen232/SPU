@@ -1,2 +1,2 @@
 # SPU
-project related to SPU MSDAB program
+project related to SPU program
